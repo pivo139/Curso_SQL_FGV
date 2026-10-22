@@ -2,7 +2,7 @@
 
 Este repositório contém os scripts de consultas SQL desenvolvidos e aprimorados durante e após a conclusão do curso **SQL (Structured Query Language)** da **Fundação Getulio Vargas (FGV)**.
 
-O objetivo do projeto é aplicar conceitos essenciais de banco de dados relacional para investigar indicadores socioeconômicos globais (como expectativa de vida, mortalidade infantil, taxa de natalidade e PIB *per capita*) utilizando a base de dados do projeto **Gapminder** e dados do Banco Mundial.
+O objetivo do projeto é aplicar conceitos essenciais de banco de dados relacional para investigar indicadores socioeconômicos globais (como expectativa de vida, mortalidade infantil, taxa de natalidade e PIB *per capita*) utilizando a base de dados do projeto **Gapminder** e dados do Banco Mundial que estão no curso da FGV.
 
 ---
 
